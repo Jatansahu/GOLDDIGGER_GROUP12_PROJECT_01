@@ -44,3 +44,21 @@
 
 └── README.md
 
+
+
+## Contents
+
+1. **data/:** This directory holds the dataset assigned to the team. The dataset is named `dataset.csv` but can be replaced with the actual dataset file.
+
+2. **notebooks/:** This directory contains Jupyter notebooks that cover various aspects of the project:
+   - `EDA.ipynb`: Exploratory Data Analysis notebook with summary statistics, visualization, and insights about the dataset.
+   - `Regression_Analysis.ipynb`: Regression analysis notebook showcasing the identification of regression problems, building Machine Learning pipelines, and evaluating regression models.
+
+3. **scripts/:** This directory contains Python scripts used for the project:
+   - `preprocessing.py`: Script for dataset preprocessing and transformation.
+   - `regression_models.py`: Script containing the code for building regression models, hyperparameter tuning, and evaluation.
+
+4. **reports/:** This directory contains project reports in PDF format:
+   - `EDA_Report.pdf`: Report summarizing the Exploratory Data Analysis.
+
+
