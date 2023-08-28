@@ -1,54 +1,9 @@
 # DATA_MINING_PROJECT_01
  This GitHub repository contains the code and documentation for the Data Mining course project focusing on Exploratory Data Analysis (EDA) and Regression Analysis. The project aims to provide a comprehensive analysis of the dataset assigned to the team, along with building and evaluating regression models using an end-to-end Machine Learning pipeline.
 
-## data-mining-course-project/
-│
-
-├── data/
-
-│   ├── dataset.csv
-
-│   └── ...
-
-│
-
-├── notebooks/
-
-│   ├── EDA.ipynb
-
-│   ├── Regression_Analysis.ipynb
-
-│   └── ...
-
-│
-
-├── scripts/
-
-│   ├── preprocessing.py
-
-│   ├── regression_models.py
-
-│   └── ...
-
-│
-
-├── reports/
-
-│   ├── EDA_Report.pdf
-
-│   ├── Regression_Report.pdf
-
-│   └── ...
-
-│
-
-└── README.md
-
-
-
 ## Contents
 
-1. **data/:** This directory holds the dataset assigned to the team. The dataset is named `dataset.csv` but can be replaced with the actual dataset file.
+1. **data/:** This directory holds the dataset assigned to our team. The dataset is named `dataset.csv` 
 
 2. **notebooks/:** This directory contains Jupyter notebooks that cover various aspects of the project:
    - `EDA.ipynb`: Exploratory Data Analysis notebook with summary statistics, visualization, and insights about the dataset.
