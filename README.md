@@ -81,7 +81,7 @@ EDA_Report.pdf: Report summarizing the Exploratory Data Analysis.
 Regression_Report.pdf: Report detailing the Regression Analysis and the performance of different regression models.
 
 
-README.md: The repository's README file includes an overview of the project, installation instructions, and usage guidelines.
+README.md: The repository's README file includes an overview of the project, installation instructions, and usage guidelines. 
 
 
 
