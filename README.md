@@ -1,5 +1,8 @@
 # DATA_MINING_PROJECT_01
  This GitHub repository contains the code and documentation for the Data Mining course project focusing on Exploratory Data Analysis (EDA) and Regression Analysis. The project aims to provide a comprehensive analysis of the dataset assigned to the team, along with building and evaluating regression models using an end-to-end Machine Learning pipeline.
+ 
+![Final_Chart](https://github.com/Jatansahu/GOLDDIGGER_GROUP12_PROJECT_01/assets/115174048/6e2fb8f2-638e-4594-82e0-a3230f0ef1f5)
+
 
 ## Contents
 
