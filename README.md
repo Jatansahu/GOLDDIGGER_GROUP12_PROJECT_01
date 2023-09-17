@@ -73,6 +73,7 @@ This dataset includes data on adult's diet, physical activity, and weight status
 
 `YearStart` - Year start
 `YearEnd` - Year End (for single-year indicator, year end=year start)
+
 `LocationAbbr` - Location abbreviation
 `LocationDesc` - Location description
 `Datasource` - Name or abbreviation of Data Source
