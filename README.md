@@ -121,7 +121,7 @@ Additionally, question and class counts were examined, and correlation analysis 
 
 
 ## 4. Data Preparation and Feature Selection
-
+![Data Preparation Chart](Flowchart/Data_Preparation.png)
 In this module, we engage in data processing tasks, which encompass the selection of essential columns and the handling of missing values. Drawing from the insights gained through both of the conducted Exploratory Data Analysis (EDAs), we proceed to partition our datasets into six subdatasets, each categorized based on stratification criteria. Subsequently, we carry out additional preprocessing on each of these subdatasets, ultimately converting them into CSV files. These CSV files serve as the foundational data for our subsequent model prediction tasks.
 
 ## 5. Machine Learning Pipeline
