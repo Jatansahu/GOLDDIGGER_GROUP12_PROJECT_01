@@ -126,12 +126,18 @@ In this module, we engage in data processing tasks, which encompass the selectio
 ## 5. Machine Learning Pipeline
 
 The machine learning pipeline comprises key stages. It begins with data splitting and standardization, where we divide the dataset, standardize it, and move to model selection. In this stage, we consider models like linear regression, polynomial regression, Ridge regression, k-Nearest Neighbors (kNN), and Random Forest. 
+
 Models used for Evaluation
-Model 1: Linear Regression Hyperparameters: None (No specific hyperparameters tuned)
-Model 2: Polynomial Regression  Hyperparameters: degree(2, 3)
-Model 3: Ridge Regression Hyperparameters: Alpha (Regularization strength): [0.01, 0.1, 1.0]
-Model 4: K-Nearest Neighbors Regression Hyperparameters: Number of Neighbors (n_neighbors): [3, 5, 7]
-Model 5: Random Forest Regression Hyperparameters: Number of Estimators (n_estimators): [100, 200, 300] Maximum Depth of Trees (max_depth): [5, 10, 20, 30] Minimum Samples for Split (min_samples_split): [2, 5, 10]
+
+**Model 1:** Linear Regression Hyperparameters: None (No specific hyperparameters tuned)
+
+**Model 2:** Polynomial Regression  Hyperparameters: degree(2, 3)
+
+**Model 3:** Ridge Regression Hyperparameters: Alpha (Regularization strength): [0.01, 0.1, 1.0]
+
+**Model 4:** K-Nearest Neighbors Regression Hyperparameters: Number of Neighbors (n_neighbors): [3, 5, 7]
+
+**Model 5:** Random Forest Regression Hyperparameters: Number of Estimators (n_estimators): [100, 200, 300] Maximum Depth of Trees (max_depth): [5, 10, 20, 30] Minimum Samples for Split (min_samples_split): [2, 5, 10]
 
 Subsequently, hyperparameter tuning and model evaluation optimizes model hyperparameters using GridSearchCV, with evaluation on the validation set. Selecting the best model and evaluating on the test set follows, where the top-performing model on the validation set is assessed on an independent test dataset. Finally, model comparison showcases results, highlighting the best hyperparameters and critical metrics like RMSE, MAE, and R2 Score. These stages encompass data preparation, model selection, and thorough evaluation.
 
