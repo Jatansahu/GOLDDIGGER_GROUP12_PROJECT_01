@@ -96,9 +96,7 @@ Our dataset contains the following atrributes :-
 
 `StratificationID1` - Lookup identifier value for StratificationCategory1
 
-**Note** : 
-
-This dataset description was sourced from-
+**Note : ** This dataset description was sourced from-
 https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
 
 ## 2. Data Understanding - EDA_dataset.ipynb
@@ -121,8 +119,7 @@ The dataset was divided based on stratification categories, and missing values w
 
 Additionally, question and class counts were examined, and correlation analysis with label encoding was performed. Notably, 'low_confidence_limit' and 'high_confidence_limit' were highly correlated and should be excluded from modeling to prevent overfitting. These findings will guide feature selection in subsequent machine learning tasks.
 
-**Note** :
-
+**Note : **
 Several plots in our EDA_category.ipynb file utilize the Plotly library, which creates interactive visualizations not viewable directly in the GitHub file. To access and interact with these visualizations, you can simply click the "Open in Colab" link provided at the beginning of the document.
 
 
