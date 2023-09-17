@@ -62,8 +62,8 @@ In this GitHub repository, you'll find code and documentation for our Data Minin
 # Table of Contents
 
 ## [ 1. Dataset description ](#1-dataset-description)
-## [ 2. as Understanding - EDA_dataset.ipynb ](#2-data-understanding-edadatasetipynb)
-## [ 3. as Visualisation - EDA_category.ipynb ](#3-data-visualisation--edacategoryipynb)
+## [ 2. Data Understanding - EDA_dataset.ipynb ](#2-data-understanding-eda-datasetipynb)
+## [ 3. Data Visualisation - EDA_category.ipynb ](#3-data-visualisation--edacategoryipynb)
 ## [ 4. Data Preparation and Feature Selection ](#4-data-preparation-and-feature-selection)
 ## [ 5. Machine Learning Pipeline ](#5-machine-learning-pipeline)
 
