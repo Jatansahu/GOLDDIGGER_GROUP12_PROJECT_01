@@ -28,6 +28,7 @@ In this GitHub repository, you'll find code and documentation for our Data Minin
 This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. In this analysis, we have performed exploratory data analysis on the dataset and thereby partitioned the dataset in various categories and analyzed and predicted obesity rates based on those factors. We have employed various machine learning techniques along with hyperparameter tuning to improve our test results. We aim to achieve a good prediction through our model.
 
 Our dataset contains the following atrributes :- 
+
 `YearStart` - Year start
 
 `YearEnd` - Year End (for single-year indicator, year end=year start)
