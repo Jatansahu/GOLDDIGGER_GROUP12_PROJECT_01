@@ -13,7 +13,7 @@ In this GitHub repository, you'll find code and documentation for our Data Minin
 ### - Bhargav Vidja - 202101201
 
 # Project Pipeline
-![Final_Chart](https://github.com/Jatansahu/GOLDDIGGER_GROUP12_PROJECT_01/assets/115174048/6e2fb8f2-638e-4594-82e0-a3230f0ef1f5)
+![Final_Chart](Flowchart/Final_Flowchart.png)
 
 # Table of Contents
 
@@ -22,6 +22,7 @@ In this GitHub repository, you'll find code and documentation for our Data Minin
 ## [ 3. Data Visualisation - EDA_category.ipynb ](#3-data-visualisation---eda_categoryipynb)
 ## [ 4. Data Preparation and Feature Selection ](#4-data-preparation-and-feature-selection)
 ## [ 5. Machine Learning Pipeline ](#5-machine-learning-pipeline)
+## [ 6. Conclusion ](#6-conclusion)
 
 ## 1. Dataset description
 
@@ -122,9 +123,11 @@ Additionally, question and class counts were examined, and correlation analysis 
 
 ## 4. Data Preparation and Feature Selection
 ![Data Preparation Chart](Flowchart/Data_Preparation.png)
+
 In this module, we engage in data processing tasks, which encompass the selection of essential columns and the handling of missing values. Drawing from the insights gained through both of the conducted Exploratory Data Analysis (EDAs), we proceed to partition our datasets into six subdatasets, each categorized based on stratification criteria. Subsequently, we carry out additional preprocessing on each of these subdatasets, ultimately converting them into CSV files. These CSV files serve as the foundational data for our subsequent model prediction tasks.
 
 ## 5. Machine Learning Pipeline
+![ML Pipeline_Chart](Flowchart/ML_Pipeline.png)
 
 The machine learning pipeline comprises key stages. It begins with data splitting and standardization, where we divide the dataset, standardize it, and move to model selection. In this stage, we consider models like linear regression, polynomial regression, Ridge regression, k-Nearest Neighbors (kNN), and Random Forest. 
 
@@ -150,7 +153,7 @@ After that, we carefully got the data ready, making sure it was in good shape fo
 
 The machine learning part involved trying different models, like Linear Regression and others, to see which one worked best. We made these models even better by adjusting their settings. We tested them on some data we kept separate to see how well they could predict obesity rates.
 
-INSERT RESULTS HERE: table.png
+![Tabular View](Flowchart/Table.png)
 
 Our results showed that our approach works well. It helps us understand and predict obesity rates for different groups of people. This isn't just interesting; it can also be helpful for future research and efforts to improve public health.
 
