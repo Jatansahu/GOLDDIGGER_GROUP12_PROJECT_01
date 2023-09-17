@@ -72,38 +72,69 @@ In this GitHub repository, you'll find code and documentation for our Data Minin
 This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. In this analysis, we have performed exploratory data analysis on the dataset and thereby partitioned the dataset in various categories and analyzed and predicted obesity rates based on those factors. We have employed various machine learning techniques along with hyperparameter tuning to improve our test results. We aim to achieve a good prediction through our model.
 
 `YearStart` - Year start
+
 `YearEnd` - Year End (for single-year indicator, year end=year start)
 
 `LocationAbbr` - Location abbreviation
+
 `LocationDesc` - Location description
+
 `Datasource` - Name or abbreviation of Data Source
+
 `Class` - Class Description
+
 `Topic` - Topic Description
+
 `Question` - Question Description
+
 `Data_Value_Unit` - Description of unit e.g. %, etc
+
 `Data_Value_Type` - Description of type of data e.g. Value, Percentage, Number
+
 `Data_Value` - Data value (percentage, text)
+
 `Data_Value_Alt` - Numeric representation of data value
+
 `Data_Value_Footnote_Symbol` - Symbol that would be used to flag footnotes
+
 `Data_Value_Footnote` - Footnote text
+
 `Low_Confidence_Limit` - Low 95% Confidence Interval value
+
 `High_Confidence_Limit` - High 95% Confidence Interval value
+
 `Sample_Size` - Sample Size
+
 `Total` - Total/Overall breakout category
+
 `Age(years)` - Age (years) breakout category
+
 `Education` - Education breakout category
+
 `Gender` - Gender breakout category
+
 `Income` - Income breakout category
+
 `Race/Ethnicity` - Race/Ethnicity breakout category
+
 `GeoLocation` - Latitude & Longitude to be provided for formatting GeoLocation or Geocode in the format (latitude, longitude)
+
 `ClassID` - Lookup identifier value for Class
+
 `TopicID` - Lookup identifier value for Topic
+
 `QuestionID` - Lookup identifier value for Question
+
 `DataValueTypeID` - Lookup identifier value for Data_Value_type
+
 `LocationID` - Lookup identifier value for Location
+
 `StratificationCategory1` - Lookup Identification value, such as Age Group, Gender
+
 `Stratification1` - Data stratified by this value, such as Male, Female, Total
+
 `StratificationCategoryId1` - Lookup identifier value for Stratification1
+
 `StratificationID1` - Lookup identifier value for StratificationCategory1
 
 **Note** : This dataset description was sourced from-
