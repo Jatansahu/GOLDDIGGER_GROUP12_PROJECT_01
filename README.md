@@ -49,10 +49,10 @@ This dataset includes data on adult's diet, physical activity, and weight status
 
 # Table of Contents
 
-## 1. [EDA (whole dataset)](#1-edawhole-dataset)
-## 2. [EDA (category wise)](#2-eda-category-wise)
-## 3. [Data Preparation and Feature Selection ](#3-data-preparation-and-feature-selection)
-## 4. [Machine Learning Pipeline ](#4-machine-learning-pipeline)
+## 1. [ EDA(whole dataset) ](#1-edawhole-dataset)
+## 2. [ EDA(category wise) ](#2-eda-category-wise)
+## 3. [ Data Preparation and Feature Selection ](#3-data-preparation-and-feature-selection)
+## 4. [ Machine Learning Pipeline ](#4-machine-learning-pipeline)
 
 
 # Introduction
