@@ -142,4 +142,16 @@ Models used for Evaluation
 
 Subsequently, hyperparameter tuning and model evaluation optimizes model hyperparameters using GridSearchCV, with evaluation on the validation set. Selecting the best model and evaluating on the test set follows, where the top-performing model on the validation set is assessed on an independent test dataset. Finally, model comparison showcases results, highlighting the best hyperparameters and critical metrics like RMSE, MAE, and R2 Score. These stages encompass data preparation, model selection, and thorough evaluation.
 
+## 6. Conclusion
+
+In summary, our project was a deep exploration of a dataset. We began by looking closely at the data and finding important patterns and relationships through graphs and analysis. This helped us get ready for the next step, where we used what we learned to make predictions.
+
+After that, we carefully got the data ready, making sure it was in good shape for our analysis. We also split the data into groups based on certain characteristics. This part was important for our machine learning.
+
+The machine learning part involved trying different models, like Linear Regression and others, to see which one worked best. We made these models even better by adjusting their settings. We tested them on some data we kept separate to see how well they could predict obesity rates.
+
+INSERT RESULTS HERE: table.png
+
+Our results showed that our approach works well. It helps us understand and predict obesity rates for different groups of people. This isn't just interesting; it can also be helpful for future research and efforts to improve public health.
+
 
