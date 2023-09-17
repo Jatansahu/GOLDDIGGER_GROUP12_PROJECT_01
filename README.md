@@ -62,8 +62,8 @@ In this GitHub repository, you'll find code and documentation for our Data Minin
 # Table of Contents
 
 ## [ 1. Dataset description ](#1-dataset-description)
-## [ 2. EDA(whole dataset) ](#2-edawhole-dataset)
-## [ 3. EDA(category wise) ](#3-edacategory-wise)
+## [ 2. Data Understanding - EDA_dataset.ipynb ](#2-data-understanding-edadatasetipynb)
+## [ 3. Data Visualisation - EDA_category.ipynb ](#3-data-visualisation--edacategoryipynb)
 ## [ 4. Data Preparation and Feature Selection ](#4-data-preparation-and-feature-selection)
 ## [ 5. Machine Learning Pipeline ](#5-machine-learning-pipeline)
 
@@ -141,7 +141,7 @@ Our dataset contains the following atrributes :-
 **Note** : This dataset description was sourced from-
 https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
 
-## 2. EDA(whole dataset)
+## 2. Data Understanding - EDA_dataset.ipynb
  - The EDA provided valuable insights into our dataset, enabling us to proceed with confidence to the prediction phase.
  - We observed patterns in the distribution of Data_Value, Data_Value_Footnote, LocationID, and StratificationCategory1, which will inform our modeling efforts.
  - Obesity rates were analyzed across states, revealing varying rates and highlighting states with the highest obesity prevalence.
@@ -151,7 +151,7 @@ https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Ph
 
 These findings collectively equip us for the next phase of our project, where we will build predictive models based on these insights.
 
-## 3. EDA(category wise)
+## 3. Data Visualisation - EDA_category.ipynb
 
 The dataset was divided based on stratification categories, and missing values were handled by removing irrelevant features. 
 ### Outcomes:
