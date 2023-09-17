@@ -61,11 +61,11 @@ In this GitHub repository, you'll find code and documentation for our Data Minin
 
 # Team Members
 
-# - Rahul Upadhyay - 202218003
-# - Muskan Khare - 202218037
-# - Jatan Sahu - 202218061
-# - Bhoomi Prajapati - 202218063
-# - Bhargav Vidja - 202101201
+### - Rahul Upadhyay - 202218003
+### - Muskan Khare - 202218037
+### - Jatan Sahu - 202218061
+### - Bhoomi Prajapati - 202218063
+### - Bhargav Vidja - 202101201
 
 # Project Pipeline
 
