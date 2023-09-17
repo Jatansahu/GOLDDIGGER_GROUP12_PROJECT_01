@@ -61,11 +61,11 @@ In this GitHub repository, you'll find code and documentation for our Data Minin
 
 # Table of Contents
 
-## 1. [ Dataset description ](#1-dataset-description)
-## 2. [ EDA(whole dataset) ](#2-edawhole-dataset)
-## 3. [ EDA(category wise) ](#3-edacategory-wise)
-## 4. [ Data Preparation and Feature Selection ](#4-data-preparation-and-feature-selection)
-## 5. [ Machine Learning Pipeline ](#5-machine-learning-pipeline)
+## [ 1. Dataset description ](#1-dataset-description)
+## [ 2. EDA(whole dataset) ](#2-edawhole-dataset)
+## [ 3. EDA(category wise) ](#3-edacategory-wise)
+## [ 4. Data Preparation and Feature Selection ](#4-data-preparation-and-feature-selection)
+## [ 5. Machine Learning Pipeline ](#5-machine-learning-pipeline)
 
 ## 1. Dataset description
 
@@ -169,5 +169,8 @@ In this module, we engage in data processing tasks, which encompass the selectio
 
 ## 5. Machine Learning Pipeline
 
+The machine learning pipeline comprises key stages. It begins with data splitting and standardization, where we divide the dataset, standardize it, and move to model selection. In this stage, we consider models like linear regression, polynomial regression, Ridge regression, k-Nearest Neighbors (kNN), and Random Forest. 
+
+Subsequently, hyperparameter tuning and model evaluation optimizes model hyperparameters using GridSearchCV, with evaluation on the validation set. Selecting the best model and evaluating on the test set follows, where the top-performing model on the validation set is assessed on an independent test dataset. Finally, model comparison showcases results, highlighting the best hyperparameters and critical metrics like RMSE, MAE, and R2 Score. These stages encompass data preparation, model selection, and thorough evaluation.
 
 
